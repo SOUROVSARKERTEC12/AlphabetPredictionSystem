@@ -17,3 +17,4 @@ python-mnist = 0.7
 tensorflow = 2.10.0
 opencv-python = 4.6.0.66
 numpy = 1.21.6
+scikit-learn = 1.0.2
